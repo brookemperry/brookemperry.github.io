@@ -4,12 +4,13 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ride Atlanta](/sample_page)
+<img src="images/ride_atlanta_screenshot.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/empty_inventory_screenshot.png?raw=true"/>
+<img src="images/entry_inventory_screenshot.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
